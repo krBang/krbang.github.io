@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "백준 설탕배달"
+title:  "백준 바닥장식"
 date:   2022-06-08 16:09:00 +0900
 categories: Python BAEKJOON
 ---
 
-[백준 설탕배달](https://www.acmicpc.net/problem/1388).
+[백준 바닥장식](https://www.acmicpc.net/problem/1388).
 
 DFS 사용하기 어려워서 그냥 풀리는대로 풀었다ㅠ  
 
