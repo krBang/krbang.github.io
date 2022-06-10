@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "백준 바이러스"
-date:   2022-06-08 16:09:00 +0900
+date:   2022-06-09 18:09:00 +0900
 categories: Python BAEKJOON
 ---
 
